@@ -4,7 +4,7 @@ I'm Aza, a Senior Software Engineer who enjoys computers and learning how they w
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,cs,java,py,js,ts,nodejs,vue,wasm,bash,powershell,docker,redis,sqlite,postgres,azure,linux,apple,windows&perline=10"/>
+      <img src="https://skillicons.dev/icons?i=rust,go,c,cs,py,js,ts,nodejs,vue,wasm,bash,powershell,docker,redis,sqlite,postgres,azure,linux,apple,windows&perline=10"/>
     </a>
 </p>
 
